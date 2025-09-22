@@ -3,7 +3,7 @@
 Litematica Printer derivative unofficial (Neo)Forge port to 1.16.5. [Original Forge Port for Later Versions](https://github.com/ThinkingStudios/ForgematicaPrinter)
 
 This extension adds printing functionality for Forgematica. Printer
-allows players to build big structures more quickly by automatically placing the correct blocks around you.
+allows players to build big structures more quickly by automatically placing the correct blocks around you. This port required adaptation of rendering code, mixins, and Forge 1.16.5 APIs. It is not a direct repost of the original mod but a divergent version made specifically compatible with Forge 1.16.5.
 
 ![Printer Demo](https://raw.githubusercontent.com/mdembree218/forgematica-printer-1.16.5/refs/heads/master/printer_demo.gif)
 
