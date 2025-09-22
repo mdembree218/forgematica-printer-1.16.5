@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[32,)"
+license = "AGPLv3"
+
+[[mods]]
+modId = "forgematica_printer"
+version = "${version}"
+displayName = "Forgematica Printer"
+displayURL = "https://github.com/ThinkingStudios/Litematica-Forge" # optional
+logoFile = "icon.png" # optional
+credits = "aleksilassila, saraph" # optional
+authors = "TexTrue, ThinkingStudio, SaraphMods" # optional
+description = '''
+LitematicaPrinter unofficial unofficial Forge port for 1.16.5.
+'''
+
+[[dependencies.forgematica_printer]]
+modId = "forge"
+mandatory = true
+versionRange = "[32,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.forgematica_printer]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.16.4,1.16.5]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.forgematica_printer]]
+modId = "mafglib"
+mandatory = true
+versionRange = "[*,)"
+ordering = "NONE"
+side = "BOTH"
