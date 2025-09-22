@@ -5,7 +5,7 @@ Litematica Printer unofficial (Neo)Forge port.
 This extension adds printing functionality for Forgematica. Printer
 allows players to build big structures more quickly by automatically placing the correct blocks around you.
 
-![Demo](printer_demo.gif)
+![Demo]([printer_demo.gif]([https://github.com/mdembree218/forgematica-printer-1.16.5/blob/master/printer_demo.gif](https://raw.githubusercontent.com/mdembree218/forgematica-printer-1.16.5/refs/heads/master/printer_demo.gif)))
 
 ## How To Use
 
@@ -21,7 +21,7 @@ print regardless if the printer is toggled on or off.
 
 If you have issues with the printer, **do not** bother the original creator of
 Litematica (maruohon) with them. Contact me instead. Feature requests or bugs can
-be reported via [GitHub issues](https://github.com/ThinkingStudio/ForgematicaPrinter/issues). 
+be reported via [GitHub issues]([https://github.com/ThinkingStudio/ForgematicaPrinter/issues](https://github.com/mdembree218/forgematica-printer-1.16.5/issues)).
 I'll try to keep a todo list of things
 I'm planning to implement and fix, so please look for duplicates there first.
 
@@ -44,6 +44,6 @@ Currently, the following features are still broken or missing:
   sometimes it can't place all the rails (to avoid placing anything incorrectly).
 - Legit mode? (for anticheats)
 
-Also, I have decided that features that fix existing builds,
+Also, TexTrue has decided that features that fix existing builds,
 such as automatic excavation or correcting incorrectly placed blocks are out of the scope of this mod.
 
