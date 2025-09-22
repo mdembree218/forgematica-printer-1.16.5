@@ -5,7 +5,7 @@ Litematica Printer unofficial (Neo)Forge port.
 This extension adds printing functionality for Forgematica. Printer
 allows players to build big structures more quickly by automatically placing the correct blocks around you.
 
-![Demo]([printer_demo.gif]([https://github.com/mdembree218/forgematica-printer-1.16.5/blob/master/printer_demo.gif](https://raw.githubusercontent.com/mdembree218/forgematica-printer-1.16.5/refs/heads/master/printer_demo.gif)))
+![Printer Demo](https://raw.githubusercontent.com/mdembree218/forgematica-printer-1.16.5/refs/heads/master/printer_demo.gif)
 
 ## How To Use
 
